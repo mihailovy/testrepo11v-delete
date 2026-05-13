@@ -1,0 +1,5 @@
+C:\Users\Boyan Mihaylov\source\repos\SeaChess4\SeaChess4\obj\Debug\SeaChess4.csproj.AssemblyReference.cache
+C:\Users\Boyan Mihaylov\source\repos\SeaChess4\SeaChess4\obj\Debug\SeaChess4.Form1.resources
+C:\Users\Boyan Mihaylov\source\repos\SeaChess4\SeaChess4\obj\Debug\SeaChess4.Properties.Resources.resources
+C:\Users\Boyan Mihaylov\source\repos\SeaChess4\SeaChess4\obj\Debug\SeaChess4.csproj.GenerateResource.cache
+C:\Users\Boyan Mihaylov\source\repos\SeaChess4\SeaChess4\obj\Debug\SeaChess4.csproj.CoreCompileInputs.cache
